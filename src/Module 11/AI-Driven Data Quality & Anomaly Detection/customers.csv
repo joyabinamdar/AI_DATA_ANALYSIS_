@@ -1,0 +1,9 @@
+name,email,age,zip_code,purchase_history
+Alice,alice@example.com,25,12345,500
+Bob,bob@example.com,30,12345,1500
+Charlie,charlie@example.com,35,23456,1200
+David,david@example.com,40,23456,800
+Eve,eve@example.com,28,34567,1100
+Frank,frank@example.com,33,34567,950
+Grace,grace@example.com,38,45678,2000
+Hannah,hannah@example.com,41,45678,1800
