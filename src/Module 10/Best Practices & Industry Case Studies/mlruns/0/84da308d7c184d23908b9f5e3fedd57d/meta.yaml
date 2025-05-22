@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/0/84da308d7c184d23908b9f5e3fedd57d/artifacts
+end_time: 1747906827611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84da308d7c184d23908b9f5e3fedd57d
+run_name: upbeat-bear-821
+run_uuid: 84da308d7c184d23908b9f5e3fedd57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747906813537
+status: 3
+tags: []
+user_id: vscode
