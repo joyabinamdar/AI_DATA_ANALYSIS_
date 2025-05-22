@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/975568348639079664/c1c4bf04b7e3498d88f885d3495feab0/artifacts
+end_time: 1747907812656
+entry_point_name: ''
+experiment_id: '975568348639079664'
+lifecycle_stage: active
+run_id: c1c4bf04b7e3498d88f885d3495feab0
+run_name: adaptable-fawn-346
+run_uuid: c1c4bf04b7e3498d88f885d3495feab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747907807423
+status: 3
+tags: []
+user_id: vscode
