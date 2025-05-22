@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/975568348639079664/1fd41f97f83f4cd1b184e3193e57f41f/artifacts
+end_time: 1747907647182
+entry_point_name: ''
+experiment_id: '975568348639079664'
+lifecycle_stage: active
+run_id: 1fd41f97f83f4cd1b184e3193e57f41f
+run_name: agreeable-frog-675
+run_uuid: 1fd41f97f83f4cd1b184e3193e57f41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747907625638
+status: 3
+tags: []
+user_id: vscode
